@@ -1,6 +1,6 @@
 baseURL: "https://nakapol.com/"
 title: Nakapol
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
