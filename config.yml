@@ -58,8 +58,8 @@ params:
     safari_pinned_tab: "safari-pinned-tab.svg"
 
   label:
-    text: "Nakapol"
-    icon: /apple-touch-icon.png
+    text: "Home"
+    icon: /nakapol-icon-header.png
     iconHeight: 35
 
   # profile-mode
@@ -148,7 +148,7 @@ taxonomies:
 privacy:
   googleAnalytics:
     anonymizeIP: true
-    disable: false
+    disable: true
     respectDoNotTrack: true
     useSessionStorage: true
 
