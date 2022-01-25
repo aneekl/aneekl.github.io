@@ -59,8 +59,8 @@ params:
 
   label:
     text: "Home"
-    icon: /nakapol-icon-header.png
-    iconHeight: 35
+    icon: /apple-touch-icon.png
+    #iconHeight: 35
 
   # profile-mode
   profileMode:
