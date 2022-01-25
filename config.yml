@@ -32,7 +32,7 @@ params:
   author: Nattapong Klumphet
   # author: ["Me", "You"] # multiple authors
   images: ["nakapol-cover.jpg"]
-  DateFormat: "2006/01/15"
+  DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   ShowReadingTime: false
