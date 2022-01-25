@@ -1,11 +1,12 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 slug: ""
-#author: "Nattapong Klumphet"
+weight: 5
+author: "K.Nattapong"
 date: {{ .Date }}
 description: "อธิบาย"
-tags: ["tag1","tag2"]
-categories: ["ctg1","ctg2"]
+tags: ["X","Y"]
+categories: ["Others","ctg2"]
 draft: true
 ---
 
