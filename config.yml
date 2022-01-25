@@ -29,7 +29,7 @@ params:
   title: nakapol.com title
   description: "nakapol.com description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Lopakna
+  author: Nattapong.K
   # author: ["Me", "You"] # multiple authors
   images: ["nakapol-cover.jpg"]
   DateFormat: "2006-01-02"
