@@ -1,5 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+slug: ""
 #author: "Nattapong Klumphet"
 date: {{ .Date }}
 description: "อธิบาย"
@@ -9,4 +10,4 @@ draft: true
 ---
 
 <!--more-->
-### head2
+### head

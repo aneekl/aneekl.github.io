@@ -21,7 +21,7 @@ outputs:
         - JSON
 
 permalinks:
-  posts: /:year/:month/:title/
+  posts: /:year/:month/:slug/
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
