@@ -1,5 +1,5 @@
 baseURL: "https://nakapol.com/"
-title: Nakapol
+title: "Nakapol: a Personal Blog about anything" 
 paginate: 10
 theme: PaperMod
 
@@ -26,9 +26,9 @@ permalinks:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   formalname: Nattapong Klumphet
-  title: nakapol.com title
-  description: "nakapol.com description"
-  keywords: [Blog, Portfolio, PaperMod]
+  #title: Nakapol Personal Blog 
+  description: "เขียนเกี่ยวกับทุกเรื่องที่นึกออก และนึกได้ว่ายังไม่มีคนเขียน"
+  keywords: [Blog, Diary, Games, Anime, Manga, Reviews]
   author: Nattapong.K
   # author: ["Me", "You"] # multiple authors
   images: ["nakapol-cover.jpg"]
@@ -39,7 +39,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   disableSpecial1stPost: true
   disableScrollToTop: false
   comments: false
