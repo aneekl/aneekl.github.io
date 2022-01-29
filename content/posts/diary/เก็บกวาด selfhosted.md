@@ -9,7 +9,7 @@ tags: ["Selfhosted"]
 categories: ["Diary"]
 draft: false
 ---
-
+วันลบไฟล์ไปก้อนใหญ่
 <!--more-->
 
 ### เผลอลบไฟล์ไปแล้ว งั้นเริ่มใหม่เลยดีกว่า
