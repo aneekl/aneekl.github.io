@@ -3,11 +3,11 @@ title: "Nintendo อยู่ตรงไหนท่ามกลางสมร
 slug: "where-nintendo-stance-in-consolidation"
 weight: 5
 author: "N.K."
-date: 2022-02-02T02:28:00+07:00
+date: 2022-02-02T02:42:00+07:00
 description: "บริษัทเกียวโตท่ามกลางคู่แข่งจากอเมริกาอยู่ตรงไหนในสงครามที่กำลังเกิดขึ้นนี้"
 tags: ["Ninntedo","Acquisition"]
 categories: ["Games"]
-draft: true
+draft: false
 ---
 เข้า 2022 ได้ไม่นานเราได้เจอข่าวการควบรวมในวงการเกมมาแล้วถึง 3 ครั้ง หนึ่งในนั้นเป็นการควบรวมที่มีมูลค่าที่สุดในวงการเกมคือ Microsoft เข้าซื้อ Activision Blizzard ผู้พฒนาเกมซีรัส์ Call of Duty และไม่กี่สัปดาห์ต่อมา Sony ประกาศเข้าซื้อ Bungie ผู้พัฒนาเกมซีรีส์ Destiny และยังเป็นอดีตผู้พัฒนาเกม Halo สุดท้าย TakeTwo ผู้พัฒนาเกม GTA ได้เข้าซื้อ Zynga ผู้พัฒนาเกม Candy Crush
 
