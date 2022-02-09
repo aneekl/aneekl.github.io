@@ -7,7 +7,7 @@ date: 2022-02-09T10:44:22+07:00
 description: "รอคอยกันมานานในที่สุดก็มาสักที"
 tags: ["Nintendo Direct","Predictions"]
 categories: ["Games","Nintendo"]
-draft: true
+draft: false
 ---
 ไดเรคแรกของปี2022
 <!--more-->
