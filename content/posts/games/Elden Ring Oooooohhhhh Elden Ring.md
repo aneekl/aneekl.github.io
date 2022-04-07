@@ -3,7 +3,7 @@ title: "Elden Ring: Oooooohhhhh Elden Ring"
 slug: "eldenring-impression-so-far"
 weight: 5
 author: "N.K."
-date: 2022-04-07T11:07:39+07:00
+date: 2022-04-07T12:50:39+07:00
 description: "เกมสุดเทพจากผู้สร้าง Dark Souls"
 tags: ["PS5","FromSoft","Elden Ring","Console"]
 categories: ["Games","Elden Ring"]
