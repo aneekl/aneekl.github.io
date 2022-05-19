@@ -15,7 +15,7 @@
     other: "{{ .Count }} คำ"
 
 - id: toc
-  translation: "สารบัญเนื้อหา"
+  translation: "เนื้อหา"
 
 - id: translations
   translation: "แปล"
