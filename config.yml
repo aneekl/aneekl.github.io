@@ -2,6 +2,7 @@ baseURL: "https://nakapol.com/"
 title: "Nakapol Blog" 
 paginate: 10
 theme: PaperMod
+DefaultContentLanguage: th
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -59,7 +60,7 @@ params:
     safari_pinned_tab: "safari-pinned-tab.svg"
 
   label:
-    text: "Home"
+    text: "หน้าหลัก"
     icon: /icons.png
     #iconHeight: 35
 
@@ -111,16 +112,16 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - name: Archives
+    - name: คลังบทความ
       url: /archives/
       weight: 10
-    - name: Categories
+    - name: หมวดหมู่
       url: /categories/
       weight: 15
-    - name: Tags
+    - name: ประเภท
       url: /tags/
       weight: 20
-    - name: Search
+    - name: ค้นหา
       url: /search/
       weight: 30
     #- identifier: example
