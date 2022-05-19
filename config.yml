@@ -60,7 +60,7 @@ params:
     safari_pinned_tab: "safari-pinned-tab.svg"
 
   label:
-    text: "หน้าหลัก"
+    text: "Home"
     icon: /icons.png
     #iconHeight: 35
 
@@ -112,16 +112,16 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - name: คลังบทความ
+    - name: archives
       url: /archives/
       weight: 10
-    - name: หมวดหมู่
+    - name: categories
       url: /categories/
       weight: 15
-    - name: ประเภท
+    - name: tags
       url: /tags/
       weight: 20
-    - name: ค้นหา
+    - name: search
       url: /search/
       weight: 30
     #- identifier: example

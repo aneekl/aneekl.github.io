@@ -1,4 +1,4 @@
 ---
-title: "ค้นหา"
+title: "search"
 layout: "search"
 ---
