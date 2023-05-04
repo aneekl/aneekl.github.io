@@ -11,6 +11,7 @@ cover:
     image: "https://i.imgur.com/FV6wYaH.png"
     alt: "Xenoblade 3 Future Redeemed"
 draft: true
+showToc: true
 ---
 
 <!--more-->
