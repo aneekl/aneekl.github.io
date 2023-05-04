@@ -60,7 +60,7 @@ params:
     safari_pinned_tab: "safari-pinned-tab.svg"
 
   label:
-    text: "Home"
+    text: "Nakapol"
     icon: /icons.png
     #iconHeight: 35
 
@@ -112,19 +112,19 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - name: archives
+    - name: Archives
       url: /archives/
       weight: 10
-    - name: categories
+    - name: Categories
       url: /categories/
       weight: 15
-    - name: tags
+    - name: Tags
       url: /tags/
       weight: 20
-    - name: about
+    - name: About
       url: /about/
-      weight: 25
-    - name: search
+      weight: 5
+    - name: Search
       url: /search/
       weight: 30
     #- identifier: example
