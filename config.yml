@@ -2,7 +2,7 @@ baseURL: "https://www.nakapol.com/"
 title: "Nakapol Blog" 
 paginate: 10
 theme: PaperMod
-DefaultContentLanguage: th
+DefaultContentLanguage: en
 
 enableRobotsTXT: true
 buildDrafts: false
