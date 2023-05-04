@@ -5,8 +5,8 @@ weight: 5
 author: "N.K."
 date: 2022-02-09T10:44:22+07:00
 description: "รอคอยกันมานานในที่สุดก็มาสักที"
-tags: ["Nintendo Direct","Predictions"]
-categories: ["Games","Nintendo"]
+tags: ["Nintendo","Nintendo Direct","Predictions"]
+categories: ["Games"]
 draft: false
 ---
 ไดเรคแรกของปี2022

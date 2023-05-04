@@ -32,7 +32,7 @@ params:
   keywords: [Blog, Diary, Games, Anime, Manga, Reviews]
   author: Nattapong.K
   # author: ["Me", "You"] # multiple authors
-  images: ["nakapol-cover.png"]
+  images: ["https://i.imgur.com/3XKcUgr.jpg"]
   DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -92,7 +92,7 @@ params:
   cover:
     responsiveImages: true
     hidden: false # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
+    hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
   #editPost:

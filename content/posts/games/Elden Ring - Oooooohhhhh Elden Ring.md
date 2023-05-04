@@ -6,7 +6,10 @@ author: "N.K."
 date: 2022-04-07T12:50:39+07:00
 description: "เกมสุดเทพจากผู้สร้าง Dark Souls"
 tags: ["PS5","FromSoft","Elden Ring","Console"]
-categories: ["Games","Elden Ring"]
+categories: ["Games"]
+cover:
+    image: "https://i.imgur.com/83ztBzi.png"
+    alt: "Elden Ring image"
 draft: false
 ---
 Elden Ring คือเกมใหม่ล่าสุดจาก From Software กำกับโดย ฮิเดทากิ มิยาซากะ ผู้กำกับเกม Dark Souls ที่ขึ้นชื่อเรื่องความยากในการเล่นจนผู้เล่นต้องปาจอยกัน

@@ -6,7 +6,7 @@ author: "N.K."
 date: 2022-02-11T09:06:06+07:00
 description: "พูดคุยหลังจบไดเรคแล้ว"
 tags: ["Nintendo Direct","Discussions","Console", "Nintendo", "Nintendo Switch"]
-categories: ["Games", "Nintendo"]
+categories: ["Games"]
 draft: false
 ---
 
