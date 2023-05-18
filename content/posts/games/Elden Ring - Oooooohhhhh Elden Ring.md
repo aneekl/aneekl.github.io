@@ -1,6 +1,6 @@
 ---
-title: "Elden Ring: Oooooohhhhh Elden Ring"
-slug: "eldenring-impression-so-far"
+title: "Elden Ring"
+slug: "elden_ring"
 weight: 5
 author: "N.K."
 date: 2022-04-07T12:50:39+07:00
