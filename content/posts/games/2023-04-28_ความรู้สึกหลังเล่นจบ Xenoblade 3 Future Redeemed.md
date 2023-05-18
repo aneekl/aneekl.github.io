@@ -1,5 +1,5 @@
 ---
-title: "Xenoblade Chronicles 3 - Future Redeemed: future awaits"
+title: "Xenoblade Chronicles 3 - Future Redeemed"
 slug: "XenobladeChronicles3_Future_Redeemed"
 weight: 5
 author: "N.K."
