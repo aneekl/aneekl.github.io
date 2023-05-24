@@ -112,6 +112,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - name: About
+      url: /about/
+      weight: 5
     - name: Archives
       url: /archives/
       weight: 10
@@ -121,9 +124,6 @@ menu:
     - name: Tags
       url: /tags/
       weight: 20
-    - name: About
-      url: /about/
-      weight: 5
     - name: Search
       url: /search/
       weight: 30
