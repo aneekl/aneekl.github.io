@@ -165,7 +165,7 @@ privacy:
   twitter:
     disabled: false
     enableDNT: true
-    simple: true
+    simple: false
     disableInlineCSS: true
 
   instagram:
